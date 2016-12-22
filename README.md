@@ -10,14 +10,16 @@ Ini bisa bermanfaat untuk mencegah infeksi virus ransomeware, bisa juga digunaka
 
 Ada 8 desain algoritma untuk keamanan menarik yang sudah saya buat, kalau senang dan penasaran bisa dipelajari ^_^ :
 
-USB Detector Algorithm
-Detect USB Letter Algorithm
-Kill Autorun Algorithm
-Detect Autorun Algorithm
-Execute Shell Algorithm
-Autorun Reader Algorithm
-GGF Quarantine Algorithm
-Autorun Defender Algorithm
+<ul>
+<li>USB Detector Algorithm</li>
+<li>Detect USB Letter Algorithm</li>
+<li>Kill Autorun Algorithm</li>
+<li>Detect Autorun Algorithm</li>
+<li>Execute Shell Algorithm</li>
+<li>Autorun Reader Algorithm</li>
+<li>GGF Quarantine Algorithm</li>
+<li>Autorun Defender Algorithm</li>
+</ul>
 
 USB Disk Security Crusader adalah perangkat lunak yang memiliki multifitur yang canggih diantaranya adalah mampu untuk mencegah penyebaran malware virus ke dalam sistem operasi kita dari USB yang telah terkontaminasi atau terinfeksi malware virus. 
 
