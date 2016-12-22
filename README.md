@@ -1,7 +1,7 @@
 # USB-Disk-Security
 USB Security Software. Call the Knight to fight Malware Spread.
 
-<img src="crusader.png">
+<img src="crusader.PNG">
 
 ----------------
 MIT License
